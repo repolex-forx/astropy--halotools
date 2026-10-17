@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/halotools/commit/ff438dfd61208fc796eb4bd2ba6099429a949842",
       "git:hexsha": "ff438dfd61208fc796eb4bd2ba6099429a949842",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/halotools/commit/09410aa3b858cec74ff1118e2e0aec240c9f9628",
