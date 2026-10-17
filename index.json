@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "halotools",
+  "versions": [
+    {
+      "commit": "ff438dfd61208fc796eb4bd2ba6099429a949842",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:22:29.953147+00:00"
+    }
+  ]
+}
